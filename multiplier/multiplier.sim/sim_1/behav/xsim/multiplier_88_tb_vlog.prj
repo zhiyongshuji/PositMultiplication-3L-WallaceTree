@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../verilog_mul_88/verilog_mul_88.srcs/sources_1/new/adder.v" \
+"../../../../multiplier.srcs/sources_1/new/concat_partial_product.v" \
+"../../../../../verilog_mul_88/verilog_mul_88.srcs/sources_1/new/counter_233.v" \
+"../../../../multiplier.srcs/sources_1/new/counter_53.v" \
+"../../../../multiplier.srcs/sources_1/new/counter_63.v" \
+"../../../../multiplier.srcs/sources_1/new/multiplier_1616.v" \
+"../../../../multiplier.srcs/sources_1/new/multiplier_3232.v" \
+"../../../../multiplier.srcs/sources_1/new/multiplier_88.v" \
+"../../../../multiplier.srcs/sim_1/new/multiplier_88_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

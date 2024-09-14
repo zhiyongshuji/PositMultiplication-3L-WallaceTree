@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sat Sep 14 15:23:03 2024
+# Process ID: 14020
+# Current directory: E:/myProjects/vivadoProjects/multiplier
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8628 E:\myProjects\vivadoProjects\multiplier\multiplier.xpr
+# Log file: E:/myProjects/vivadoProjects/multiplier/vivado.log
+# Journal file: E:/myProjects/vivadoProjects/multiplier\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/myProjects/vivadoProjects/multiplier/multiplier.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/VIVADO/Vivado/2018.3/data/ip'.
